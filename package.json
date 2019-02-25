@@ -1,0 +1,31 @@
+{
+  "name": "formik-sample",
+  "version": "0.0.177",
+  "description": "An sample form built with Formik and React",
+  "keywords": [
+    "react",
+    "formik",
+    "forms"
+  ],
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "bootstrap": "^4.3.1",
+    "formik": "1.2.0",
+    "moment": "^2.24.0",
+    "react": "16.5.0",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "16.5.0",
+    "react-router-dom": "^4.3.1",
+    "reactstrap": "^7.1.0",
+    "yup": "0.26.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
