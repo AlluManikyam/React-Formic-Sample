@@ -213,6 +213,7 @@ class Registration extends Component {
                       <Form.Check
                         type="checkbox"
                         name="termsAccepted"
+                        checked={values.termsAccepted}
                         label="Check me out"
                         value={values.termsAccepted}
                         onChange={handleChange}
